@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Hopcast</a>. 
+subtitle: CEO at <a href='https://hopcast.fr'>Hopcast</a>. 
 
 profile:
   align: right
